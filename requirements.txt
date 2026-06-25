@@ -1,9 +1,8 @@
 pandas
 numpy
 pyarrow
-matplotlib
-seaborn
-
 sentence-transformers
 faiss-cpu
-tqdm
+streamlit
+huggingface_hub
+python-dotenv
